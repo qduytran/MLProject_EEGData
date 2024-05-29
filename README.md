@@ -28,5 +28,6 @@
 * Dữ liệu huấn luyện trên 19 kênh, vậy có 95 trường thông tin cần để cho mô hình học được
 * Thuật toán (thử nghiệm trong file notebook)
 * Hiện tại dùng tuning hyper parameter thì thấy với thuật toán xgboost cho được bộ siêu tham số với độ chính xác trên tập test tốt hơn cả.
-![image](https://hackmd.io/_uploads/rk9SAR4EA.png)
+![image](https://github.com/qduytran/MLProject_EEGData/assets/139730440/9c8fdaf3-b482-4dbe-a1f9-c9a9a5e1ddb4)
+
 ****
