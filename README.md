@@ -1,12 +1,12 @@
 **Bài tập lớn môn Học máy (INT3405 3)**
 
-Thành viên nhóm:
+Thành viên nhóm
 - Trần Quang Duy (21020136)
 - Trần Khánh Phương (21020147)
 - Đỗ Nguyên Đăng Thi (21020149)
 - Đinh Văn Khải (21020444)
 
-Để chạy giao diện:
+Để chạy giao diện
 - Đảm bảo cài đặt streamlit: Tutorial (https://www.youtube.com/watch?v=K1GiIgMw6mI)
 - Chạy lệnh trên cmd: streamlit run app.py
 - Nhập vào thông tin của 19 kênh (việc này nhóm đang muốn cải tiến phù hợp cho thực tế hơn là đọc vào file eeg đo trực tiếp từ não, tất nhiên sẽ thêm nhiều bước hơn)
