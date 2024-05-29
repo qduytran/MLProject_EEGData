@@ -19,3 +19,4 @@ Dữ liệu
 
 Thuật toán (thử nghiệm trong file notebook)
 - Hiện tại dùng tuning hyper parameter thì thấy với thuật toán xgboost cho được bộ siêu tham số với độ chính xác trên tập test tốt hơn cả.
+<img width="909" alt="image" src="https://github.com/qduytran/MLProject_EEGData/assets/139730440/37b66135-4568-4c77-aab0-fb83df54ab00">
