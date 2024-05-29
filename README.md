@@ -7,7 +7,7 @@ Bài tập lớn môn Học máy (INT3405 3)
 - Nhấn predict dự đoán (model chạy tốt với tập test độ chính xác khoảng 83%)
 
 Dữ liệu
-- Nguồn dữ liệu lấy từ bên bỉ với 307 bệnh nhân, 178 bệnh nhân không bị bệnh, 129 bệnh nhân bị bệnh
+- Nguồn dữ liệu lấy từ bên Bỉ (private) với 307 bệnh nhân, 178 bệnh nhân không bị bệnh, 129 bệnh nhân bị bệnh
 - Feature: với 19 kênh, mỗi kênh có 5 feature, 3 feature của thành phần tuần hoàn, 2 feature của thành phần không tuần hoàn.
 - Dữ liệu huấn luyện trên 19 kênh, vậy có 95 trường thông tin cần để cho mô hình học được
 
