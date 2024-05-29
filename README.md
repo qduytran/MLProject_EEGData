@@ -1,4 +1,10 @@
-Bài tập lớn môn Học máy (INT3405 3)
+**Bài tập lớn môn Học máy (INT3405 3)**
+
+Thành viên nhóm:
+- Trần Quang Duy (21020136)
+- Trần Khánh Phương (21020147)
+- Đỗ Nguyên Đăng Thi (21020149)
+- Đinh Văn Khải (21020444)
 
 Để chạy giao diện:
 - Đảm bảo cài đặt streamlit: Tutorial (https://www.youtube.com/watch?v=K1GiIgMw6mI)
