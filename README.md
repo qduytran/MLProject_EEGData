@@ -1,11 +1,6 @@
 # **Bài tập lớn môn Học máy (INT3405 3)**
 
-> ***Thành viên nhóm***
-> 
-> 1. Trần Quang Duy (21020136)
-> 2. Trần Khánh Phương (21020147)
-> 3. Đỗ Nguyên Đăng Thi (21020149)
-
+***Thành viên nhóm***
 
 |     Họ và tên      |   MSV    | Đóng góp |
 |:------------------:|:--------:|:--------:|
